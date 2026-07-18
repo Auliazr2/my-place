@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-family: 'TT Commons Pro', system-ui, sans-serif;
+}
+
+body {
+  background-color: #FFF9FC;
+  color: #4A2238;
+}
+
+html {
+  scroll-behavior: smooth;
+}
